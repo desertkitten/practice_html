@@ -91,7 +91,7 @@ img {
     color: white;
 }
 
-.random-title {
+.blog-title {
     font-size: 36px;
     font-weight: 900;
     color: #152937;
@@ -109,13 +109,13 @@ img {
     outline: 2px solid blue;
 }
 
-.blurb {
+.comment {
     width: 144px;
     text-align: center;
     display: flex;
 }
 
-.random-box {
+.blog-boxes {
     display: flex;
     flex-direction: column;
     gap: 6px;
@@ -129,7 +129,7 @@ img {
     gap: 48px;
 }
 
-.random {
+.blog {
     display: flex;
     flex-direction: column;
     padding: 20px;
@@ -146,7 +146,7 @@ img {
     height: 393.5px;
 }
 
-.quote-text {
+.quote-txt {
     display: flex;
     flex-wrap: wrap;
     font-weight: lighter;
@@ -161,19 +161,19 @@ img {
     font-size: 30px;
 }
 
-.newsletter {
+.product {
     height: 394px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.newsletter-subtext {
+.action-subtext {
     color: rgb(217, 223, 235);
     text-wrap: nowrap;
 }
 
-.newsletter-container {
+.product-container {
     background-color: #3882f6;
     width: 80%;
     height: 45%;
@@ -186,25 +186,25 @@ img {
     padding-right: 200px;
 }
 
-.newsletter-container-left {
+.product-left {
     display: flex;
     flex-direction: column;
     gap: 4px;
 }
 
-.newsletter-container-right {
+.product-right {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.newsletter-title {
+.action {
     font-weight: bold;
     font-size: 22px;
     color: white;
 }
 
-.newsletter-button {
+.product-button {
     background-color: #3882f6;
     border: none;
     outline: 1px solid white;
@@ -225,6 +225,6 @@ img {
     height: 60px;
 }
 
-.footer-text {
+.copyright {
     color: white;
 }
