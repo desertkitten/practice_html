@@ -149,6 +149,7 @@ img {
 .quote-txt {
     display: flex;
     flex-wrap: wrap;
+    color: #152937;
     font-weight: lighter;
     font-size: 36px;
     width: 800px;
@@ -157,6 +158,7 @@ img {
 .quote-source {
     width: 800px;
     text-align: end;
+    color: #152937;
     font-weight: 500;
     font-size: 30px;
 }
